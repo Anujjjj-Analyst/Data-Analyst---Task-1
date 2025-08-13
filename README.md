@@ -1,4 +1,4 @@
-#Summary of Changes for netflix_titles.csv
+**#Summary of Changes for netflix_titles.csv**
 
 Here is a proper summary of the data cleaning and preprocessing steps you performed:
 
@@ -8,7 +8,7 @@ Tools Used: Microsoft Excel.
 
 Objective: To clean and prepare the raw dataset for analysis by handling missing values, standardizing formats, and removing inconsistencies.
 
-##Key Changes and Actions Performed:
+**##Key Changes and Actions Performed:**
 
 **Missing Values:**
 
@@ -39,6 +39,7 @@ Column headers were reviewed to ensure they were clean and uniform (e.g., releas
 ##Final Output:
 
 A cleaned and structured dataset ready for analysis, saved as a .csv file.
+
 
 
 
